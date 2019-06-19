@@ -8,6 +8,6 @@ Our intern Dan created this killer Movie Quotes App that returns a random movie 
 * Clone this repo and `cd` into directory in your command line.
 * Run `npm install` to install dependencies.
 * Run `node index.js` to start Express server.
-* Open up your web browser and hit refresh to generate a new quote.
+* Open up your web browser to `localhost:3000` and hit refresh to generate a new quote.
 
 Enjoy!
